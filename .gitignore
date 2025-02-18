@@ -2,3 +2,6 @@
 /extension.pem
 
 .env
+*.pyc
+__pycache__/
+
