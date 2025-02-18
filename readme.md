@@ -1,7 +1,7 @@
 <img width="553" alt="Screenshot 2025-02-18 at 12 20 27 PM" src="https://github.com/user-attachments/assets/27ffdf15-d3c5-45c7-b320-294bb3d82b73" />
 
 
-### README.md for LaTeX to Word Converter Extension
+### LaTeX to Word Converter 
 
 #### Overview
 The LaTeX to Word Converter is a Chrome extension that allows users to convert LaTeX code into Word documents (.docx) seamlessly. This tool is particularly useful for academics, researchers, and anyone who frequently works with LaTeX documents and needs an easy way to convert them into a more universally accessible format.
