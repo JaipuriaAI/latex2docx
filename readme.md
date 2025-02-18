@@ -1,3 +1,6 @@
+<img width="553" alt="Screenshot 2025-02-18 at 12 20 27 PM" src="https://github.com/user-attachments/assets/27ffdf15-d3c5-45c7-b320-294bb3d82b73" />
+
+
 ### README.md for LaTeX to Word Converter Extension
 
 #### Overview
