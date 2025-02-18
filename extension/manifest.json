@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "LaTeX to Word Converter BETA",
+    "version": "1.0",
+    "description": "THIS EXTENSION IS FOR BETA TESTING",
+    "permissions": [],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "128": "logo.webp"
+      }
+    }
+  }
+  
